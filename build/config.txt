@@ -1,0 +1,8 @@
+fileTrainImageMNIST, MNIST_Database/train-images.idx3-ubyte
+fileTrainLabelsMNIST, MNIST_Database/train-labels.idx1-ubyte
+fileTestImageMNIST, MNIST_Database/t10k-images.idx3-ubyte
+fileTestLabelsMNIST, MNIST_Database/t10k-labels.idx1-ubyte
+numberHiddenNeurons, 200
+numberEpochs, 50
+learningRate, 0.01
+errorCrossEntropy, 0.005
